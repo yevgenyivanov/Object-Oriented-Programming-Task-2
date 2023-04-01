@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>EX2</OriginalElement>
+  <nodes>
+    <node x="299.0" y="49.0">EX2.MyThread</node>
+    <node x="69.0" y="71.0">EX2.MyThreadPoolCallable</node>
+    <node x="155.25" y="220.0">EX2.Ex_1</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="EX2.Ex_1" target="EX2.MyThreadPoolCallable" relationship="CREATE">
+      <point x="0.0" y="-82.5" />
+      <point x="283.75" y="195.0" />
+      <point x="174.0" y="195.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="EX2.Ex_1" target="EX2.MyThread" relationship="CREATE">
+      <point x="0.0" y="-82.5" />
+      <point x="283.75" y="195.0" />
+      <point x="393.5" y="195.0" />
+      <point x="0.0" y="60.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.5" showDependencies="true" x="288.5" y="227.0" />
+  <SelectedNodes>
+    <node>EX2.MyThread</node>
+    <node>EX2.Ex_1</node>
+    <node>EX2.MyThreadPoolCallable</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
