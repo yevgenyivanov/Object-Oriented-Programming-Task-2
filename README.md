@@ -1,6 +1,7 @@
 # Java Object Oriented Programming Task No.2
 ### Authors:
 [Yevgeny Ivanov](https://github.com/yevgenyivanov)
+
 [Dor Yanay](https://github.com/DorYanay)
 
 
